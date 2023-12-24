@@ -1,6 +1,6 @@
 {
     "dialog-state": {
-        "query": "fa-twitter",
+        "query": "To contact us, please fill out the form below.",
         "path": "",
         "regex": false,
         "caseSensitive": false,
