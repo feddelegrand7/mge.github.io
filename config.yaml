@@ -33,6 +33,18 @@ menu:
     - name: Page d'acceuil
       url: /
       weight: 1
+    - name: Linkedin
+      pre: <i class='fab fa-linkedin text-2xl'></i>
+      url: https://www.linkedin.com/
+      weight: 2
+    - name: Twitter
+      pre: <i class='icon-twitter text-2xl'></i>
+      url: https://twitter.com/
+      weight: 3
+    - name: Instagrem
+      pre: <i class='fab fa-instagram text-2xl'></i>
+      url: https://www.instagram.com/
+      weight: 4
   main:
     - identifier: products
       name: Produits

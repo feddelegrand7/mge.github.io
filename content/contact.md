@@ -1,7 +1,7 @@
 ---
-title: Contact
+title: Contactez-nous
 ---
 
-To contact us, please fill out the form below.
+Pour nous contacter, veuillez remplir le formulaire ci-dessous:
 
 {{< form >}}

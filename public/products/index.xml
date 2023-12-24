@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Produits on MGE</title>
+    <link>https://example.com/products/</link>
+    <description>Recent content in Produits on MGE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://example.com/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agro-alimentaire</title>
+      <link>https://example.com/products/example/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://example.com/products/example/</guid>
+      <description>Insertion des logos a ce niveau</description>
+    </item>
+    
+    <item>
+      <title>Essentiel domestique</title>
+      <link>https://example.com/products/example2/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://example.com/products/example2/</guid>
+      <description>Insertion des logos a ce niveau</description>
+    </item>
+    
+  </channel>
+</rss>
