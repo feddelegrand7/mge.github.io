@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MGE</title>
-    <link>https://example.com/</link>
+    <link>https://mgealgeria.netlify.app/</link>
     <description>Recent content on MGE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://mgealgeria.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agro-alimentaire</title>
-      <link>https://example.com/products/example/</link>
+      <link>https://mgealgeria.netlify.app/products/example/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       
-      <guid>https://example.com/products/example/</guid>
+      <guid>https://mgealgeria.netlify.app/products/example/</guid>
       <description>Insertion des logos a ce niveau</description>
     </item>
     
     <item>
       <title>Essentiel domestique</title>
-      <link>https://example.com/products/example2/</link>
+      <link>https://mgealgeria.netlify.app/products/example2/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       
-      <guid>https://example.com/products/example2/</guid>
+      <guid>https://mgealgeria.netlify.app/products/example2/</guid>
       <description>Insertion des logos a ce niveau</description>
     </item>
     
     <item>
       <title>MGE - MULTI GOODS EXPORT -</title>
-      <link>https://example.com/about/</link>
+      <link>https://mgealgeria.netlify.app/about/</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://mgealgeria.netlify.app/about/</guid>
       <description>MGE, entreprise d&amp;rsquo;exportation algérienne renommée, propose une sélection exquise de produits agro-alimentaires comprenant des fromages fins, des biscuits artisanaux, des boissons de qualité, du miel, et bien d’autres articles . Notre offre s&amp;rsquo;étend à des éléments tels que des meubles de bain élégants, des robinets variés, des coutelleries avec plusieurs modèles, ainsi que d&amp;rsquo;autres articles essentiels pour la maison. Destinés à une clientèle internationale à travers le monde, ces produits diversifiés reflètent notre engagement envers l&amp;rsquo;excellence et la satisfaction globale de nos clients.</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://example.com/blog/markdown-syntax/</link>
+      <link>https://mgealgeria.netlify.app/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/markdown-syntax/</guid>
+      <guid>https://mgealgeria.netlify.app/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Contactez-nous</title>
-      <link>https://example.com/contact/</link>
+      <link>https://mgealgeria.netlify.app/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://mgealgeria.netlify.app/contact/</guid>
       <description>Pour nous contacter, veuillez remplir le formulaire ci-dessous:
  </description>
     </item>
